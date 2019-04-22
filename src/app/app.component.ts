@@ -8,4 +8,5 @@ import { Component } from '@angular/core'
 
 export class AppComponent {
   pageHeader : string = "Employee Page";
+  classesToApply: string = 'italicsClass boldClass';
 }
